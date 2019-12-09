@@ -1,0 +1,66 @@
+/*
+    Color Palette https://www.colourpod.com/post/24961966146/pastel-nightlight-submitted-by-parushine
+    #FFE1A3
+    #FFB495
+    #D662A8
+    #6A2D8A
+    #412A78
+    #0E0D5A
+
+    css gradient tool
+    https://cssgradient.io/
+*/
+
+/* total app sizing*/
+
+#chatroom-list{
+    background: ivory;
+}
+
+
+#app{
+    width: 550px;
+    height: 630px;
+    background: ivory;
+
+}
+
+#header-navbar{
+    height:15%;
+    width : 100%;
+}
+
+#chatroom-list{
+    height: 75%;
+    min-height: 75%;
+}
+
+.list-group.row{
+    overflow: scroll;
+}
+
+#tap-footer{
+    height:10%;
+}
+
+/* chatroom list sizing */
+.chatroom-list-item{
+    height:20%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.list-group-item{
+   min-height: 20%;
+}
+
+/* tap button sizing */
+.btn-group-lg{
+    height: 90%;
+}
+
+/* no color for <a> tag */
+a{
+    color: black;
+}

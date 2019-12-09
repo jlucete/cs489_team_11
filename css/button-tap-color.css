@@ -1,0 +1,40 @@
+/* custom button color */
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited,
+.btn-primary:focus {
+    background-color: #FFE373 !important;
+    border-color: #FFE373 !important;
+    color:dimgray;
+}
+
+.btn-secondary,
+.btn-secondary:hover,
+.btn-secondary:active,
+.btn-secondary:visited,
+.btn-secondary:focus {
+    background-color: #F4C2C2 !important;
+    border-color:  #F4C2C2!important;
+    color:dimgray;
+}
+
+.btn-warning,
+.btn-warning:hover,
+.btn-warning:active,
+.btn-warning:visited,
+.btn-warning:focus {
+    background-color: lightblue !important;
+    border-color: lightblue !important;
+    color:dimgray;
+}
+
+.btn-info,
+.btn-info:hover,
+.btn-info:active,
+.btn-info:visited,
+.btn-info:focus {
+    background : #F4C2C2 !important;
+    border-color: #F4C2C2 !important;
+    color :dimgray;
+}
